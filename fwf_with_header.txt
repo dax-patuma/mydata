@@ -3,4 +3,3 @@ ProvinceID  ProvinceTh         ProvinceEn            RegionID AreaKm2
 สมป        สมุทรปราการ       Samut Prakan         C       1004.092
 นนท        นนทบุรี           Nonthaburi           C        622.303
 ปท         ปทุมธานี          Pathum Thani         C       1525.856
-อย         พระนครศรีอยุธยา  Phra Nakhon Si Ayutthaya C   2556.605
