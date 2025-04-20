@@ -1,0 +1,65 @@
+[
+  {
+    "name_eng": "Wat Phra Kaew",
+    "name_thai": "วัดพระแก้ว",
+    "belief": "Revered as the most sacred temple in Thailand, housing the Emerald Buddha.",
+    "lat": 13.7510,
+    "long": 100.4913
+  },
+  {
+    "name_eng": "Wat Arun",
+    "name_thai": "วัดอรุณ",
+    "belief": "Symbolizes the dawn and enlightenment in Buddhist teachings.",
+    "lat": 13.7437,
+    "long": 100.4889
+  },
+  {
+    "name_eng": "Wat Pho",
+    "name_thai": "วัดโพธิ์",
+    "belief": "Famous for the reclining Buddha and traditional Thai massage teachings.",
+    "lat": 13.7466,
+    "long": 100.4925
+  },
+  {
+    "name_eng": "Wat Saket",
+    "name_thai": "วัดสระเกศ",
+    "belief": "Home to the Golden Mount, symbolizing perseverance and devotion.",
+    "lat": 13.7536,
+    "long": 100.5061
+  },
+  {
+    "name_eng": "Wat Benchamabophit",
+    "name_thai": "วัดเบญจมบพิตร",
+    "belief": "Known as the Marble Temple, representing elegance and serenity in Buddhism.",
+    "lat": 13.7629,
+    "long": 100.5140
+  },
+  {
+    "name_eng": "Wat Traimit",
+    "name_thai": "วัดไตรมิตร",
+    "belief": "Houses the world's largest solid gold Buddha statue.",
+    "lat": 13.7375,
+    "long": 100.5165
+  },
+  {
+    "name_eng": "Wat Rong Khun",
+    "name_thai": "วัดร่องขุ่น",
+    "belief": "A unique white temple symbolizing purity and enlightenment.",
+    "lat": 19.8242,
+    "long": 99.7636
+  },
+  {
+    "name_eng": "Wat Phrathat Doi Suthep",
+    "name_thai": "วัดพระธาตุดอยสุเทพ",
+    "belief": "A sacred site in Chiang Mai believed to house relics of the Buddha.",
+    "lat": 18.8040,
+    "long": 98.9183
+  },
+  {
+    "name_eng": "Wat Mahathat",
+    "name_thai": "วัดมหาธาตุ",
+    "belief": "Features the famous Buddha head entwined in tree roots in Ayutthaya.",
+    "lat": 14.3588,
+    "long": 100.5667
+  }
+]
